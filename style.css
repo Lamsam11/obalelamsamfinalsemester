@@ -1,0 +1,17 @@
+body{
+    background-color: skyblue;
+
+
+}
+a{
+    text-decoration: none;
+    margin-right: 4px;
+    text-align: left;
+
+}
+a:hover{
+    color: black;
+}
+h1{
+background-color: aquamarine;
+}
