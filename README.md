@@ -1,2 +1,0 @@
-# obalelamsam...midsemester
- midsemester
