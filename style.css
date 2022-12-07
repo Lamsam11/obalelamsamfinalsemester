@@ -1,13 +1,12 @@
 body{
     background-color: skyblue;
-    background: url('back.jpg');
-
 }
 a{
     text-decoration: none;
     margin-right: 12px;
     text-align: left;
-    color: black;
+    color:black;
+    margin: 100px;
 
 }
 a:hover{
@@ -15,4 +14,18 @@ a:hover{
 }
 h1{
 background-color: aquamarine;
+
+}
+li{
+    
+    font-weight: bolder;
+}
+p{
+    font-weight: bolder;
+}
+.btn{
+box-sizing: border-box;
+}
+.btn:hover{
+    color: blue;
 }
